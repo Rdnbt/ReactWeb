@@ -6,6 +6,9 @@ import { TimeLineData } from '../../constants/constants';
 
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
+// The constant TOTAL_CAROUSEL_COUNT is used to calculate the width of the carousel container.
+// The width of the container is set to 70% of the screen width. 
+
 const Timeline = () => {
   const [activeItem, setActiveItem] = useState(0);
   const carouselRef = useRef();
