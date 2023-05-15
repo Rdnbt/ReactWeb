@@ -1,8 +1,8 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Roboto Condensed, sans-serif",
-    main: "Roboto Condensed, sans-serif"
+    title: "PT Sans Narrow, sans-serif",
+    main: "PT Sans Narrow, sans-serif"
   },
   // Colors for layout
   colors: {
