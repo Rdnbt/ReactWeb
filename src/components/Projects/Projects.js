@@ -3,6 +3,7 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
+import { Link } from '@chakra-ui/react';
 
 
 const Projects = () => (
@@ -28,7 +29,7 @@ const Projects = () => (
           </div>
           <UtilityList>
             <ExternalLinks href={visit}>Code</ExternalLinks>
-            <ExternalLinks href={source}>Source</ExternalLinks>
+            <ExternalLinks href='/photography.js'>Source</ExternalLinks>
           </UtilityList>
         </BlogCard>
       ))}

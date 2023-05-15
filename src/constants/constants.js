@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export const projects = [
   {
     title: 'Volunteer Application',
@@ -13,7 +15,7 @@ export const projects = [
     description:"Energy Has Become A Major Problem For Human Society. This Short Movie Features The Possible Future For Humanity If We Do Not Take Action Now.",
     image: '/images/AZAA.png',
     tags: ['React', 'JavaScript', 'Node', 'Latex'],
-    source: 'https://www.youtube.com/watch?v=rxuLi6iGDkY&t=19s',
+    source: <Link href='/photography.js'></Link>,
     visit: 'https://www.youtube.com/watch?v=rxuLi6iGDkY&t=19s',
     id: 1,
   },
@@ -22,7 +24,7 @@ export const projects = [
     description: "Short Movie Featured In Internation Film Festival. The Movie Hope Received Grand Prix Price In 2022 International Film Festival For Young People.",
       image: '/images/HFP04966.JPG',
       tags: ['React', 'WebRTC', 'ADAS', 'Lane Tracing'],
-    source: 'https://www.youtube.com/watch?v=Mr5qPjJMqAI&t=135s',
+    source: '/Technologies/Technologies.js',
     visit: 'https://www.youtube.com/watch?v=Mr5qPjJMqAI&t=135s',
     id: 2,
   },
