@@ -1,8 +1,8 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "PT Sans Narrow, sans-serif",
-    main: "PT Sans Narrow, sans-serif"
+    title: "Ostrich Sans, sans-serif",
+    main: "Ostrich Sans, sans-serif"
   },
   // Colors for layout
   colors: {
