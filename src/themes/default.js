@@ -1,8 +1,8 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Ostrich Sans, sans-serif",
-    main: "Ostrich Sans, sans-serif"
+    title: "Roboto Condensed, sans-serif",
+    main: "Roboto Condensed, sans-serif"
   },
   // Colors for layout
   colors: {
