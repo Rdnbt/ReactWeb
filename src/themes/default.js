@@ -1,7 +1,7 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Barlow, sans-serif",
+    title: "Roboto Condensed, sans-serif",
     main: "Roboto Condensed, sans-serif"
   },
   // Colors for layout
