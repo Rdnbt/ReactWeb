@@ -2,12 +2,30 @@ import Link from 'next/link';
 
 export const projects = [
   {
+    title: 'Project Vision 2022',
+    description: "Project Vision is a collaborative project with Cooper Vision Japan, to tackle the issue of Plastic waste. Nohara Lab members came up with innovative solutions to solve the issue of plastic usage by focusing on the usage of contact lens plastic blisters.",
+      image: '/images/PV.png',
+      tags: ['Ai', 'Ae', 'Pr'],
+    source: 'https://www.youtube.com/watch?v=bWXW0axziPI',
+    visit: 'https://www.youtube.com/watch?v=bWXW0axziPI',
+    id: 0,
+  },
+  {
+    title: 'PDE - Python Simulation for various Partial Differential Equations',
+    description: "Partial Differential Equations are used to model various physical phenomena. This project is a simulation of various PDEs using Python. All source codes and results can be viewed from the Github repository.",
+      image: '/images/PDE.png',
+      tags: ['Python', 'Matplotlib', 'Numpy', 'Latex'], 
+    source: 'https://github.com/HaroldBudd/PDE.git',
+    visit: 'https://github.com/HaroldBudd/PDE.git',
+    id: 0,
+  },
+  {
     title: 'Volunteer Application',
     description: "Pandamic Has Affected The Lives Of Many People In The World. This Project Creates Opportunities For Students To Volunteer To Help Those In Need.",
       image: '/images/image.png',
       tags: ['Ai', 'Ae', 'Pr', 'Node'],
     source: 'https://www.youtube.com/watch?v=p4Vy6R2Ol10',
-    visit: 'https://www.youtube.com/watch?v=p4Vy6R2Ol10',
+    visit: 'https://github.com/HaroldBudd/VolunteerApplication.git',
     id: 0,
   },
   {
@@ -15,7 +33,7 @@ export const projects = [
     description:"Energy Has Become A Major Problem For Human Society. This Short Movie Features The Possible Future For Humanity If We Do Not Take Action Now.",
     image: '/images/Energy.png',
     tags: ['React', 'JavaScript', 'Node', 'Latex'],
-    source: <Link href='/photography.js'></Link>,
+    source: 'https://www.youtube.com/watch?v=rxuLi6iGDkY&t=19s', 
     visit: 'https://www.youtube.com/watch?v=rxuLi6iGDkY&t=19s',
     id: 1,
   },
@@ -30,7 +48,7 @@ export const projects = [
   },
   {
     title: 'Photography',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "Photography as a way to storytelling. I have been recently started taking photography and I like to explore the notion of storytelling through digital medium. Find out more from my Instagram Account",
     image: '/images/dolgi2.jpg',
     tags: ['React', 'ChatEngine', 'Firebase', 'Blender', 'Houdini'],
     source: 'https://www.instagram.com/curatorshelf/',
@@ -40,9 +58,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'If this changes, then its success', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Graduated ShineMongol HighSchool', },
+  { year: 2019, text: 'National University of Mongolia', },
+  { year: 2020, text: 'Tokyo Institute of Technology - TSE Department', },
+  { year: 2022, text: 'Robert Bosch RmbH: 6-month Internship at CGR Department', },
+  { year: 2023, text: 'Robert Bosch RmbH: 6-month Internship at XC-DX Department', },
 ];
