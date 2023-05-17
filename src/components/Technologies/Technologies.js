@@ -9,8 +9,8 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range of technologies including Machine Learning, UI/UX Design, Motion Graphics and Graphic Design.
+      I am familiar and have experience with the following:
     </SectionText>
     <List>
       <ListItem>
