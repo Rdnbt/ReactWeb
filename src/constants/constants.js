@@ -50,7 +50,7 @@ export const projects = [
     title: 'Photography',
     description: "Photography as a way to storytelling. I have been recently started taking photography and I like to explore the notion of storytelling through digital medium. Find out more from my Instagram Account",
     image: '/images/dolgi2.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase', 'Blender', 'Houdini'],
+    tags: ['Sony a7C', 'Ps', 'Film', 'Lightroom'],
     source: 'https://www.instagram.com/curatorshelf/',
     visit: 'https://www.instagram.com/curatorshelf/',
     id: 3,
