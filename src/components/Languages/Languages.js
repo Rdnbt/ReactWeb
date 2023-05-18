@@ -23,14 +23,14 @@ const Languages = () => (
                 </ListContainer>
             </ListItem>
             <ListItem>
-                <DiMagento size = '3rem' />
-                <listContainer>
+                <DiMarkdown size = '3rem' />
+                <ListContainer>
                     <ListTitle>Japanese</ListTitle>
                     <ListParagraph>
-                        Fully Proficient Level
+                        Fully Proficient
                     </ListParagraph>
-                </listContainer>
-            </ListItem>
+                </ListContainer>
+            </ListItem> 
             <ListItem>
                 <DiAsterisk size = '3rem' />
                 <ListContainer>
