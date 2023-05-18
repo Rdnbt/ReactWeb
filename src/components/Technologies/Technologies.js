@@ -49,8 +49,7 @@ const Technologies = () =>  (
           <ListTitle>Machine Learning</ListTitle>
           <ListParagraph>
             Experience with <br />
-            TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, OpenCV, Seaborn
-          </ListParagraph>
+            TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, OpenCV, Seaborn, Matplotlib</ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
