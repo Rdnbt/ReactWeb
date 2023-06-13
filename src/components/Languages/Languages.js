@@ -10,7 +10,7 @@ const Languages = () => (
         <br />
         <SectionTitle>Languages</SectionTitle>
         <SectionText>
-            Here the list of languages I know. Communication is a vital element in expressing ideas and proposal especially in collaboration. I am always passionate about learning new languages.
+            Here the list of languages I know. Communication is a vital element in expressing ideas and proposal especially in collaboration. 
         </SectionText>
         <List>
             <ListItem> 
