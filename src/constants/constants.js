@@ -23,7 +23,7 @@ export const projects = [
     title: 'Computational Design',
     description: 'As an computational design enthusiast, this Repo and Instagram account is dedicated to share my computational design works. All source codes and results can be viewed from the Github repository.',
     image: '/images/harold_AdobeExpress.gif',
-    tags: ['Processing', 'p5.js', 'After Effects', 'Unity', 'Unreal Engine'],
+    tags: ['Processing', 'p5.js', 'Unity', 'Unreal Engine'],
     source: 'https://github.com/Rdnbt/CreativeCoding.git',
     visit: 'https://www.instagram.com/vvvv_gamma/',
     id: 0, 
