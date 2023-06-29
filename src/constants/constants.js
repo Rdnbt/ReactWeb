@@ -31,7 +31,7 @@ export const projects = [
   {
     title: 'Project Vision 2022',
     description: "Project Vision is a collaborative project with Cooper Vision Japan, to tackle the issue of Plastic waste. Nohara Lab members came up with innovative solutions to solve the issue of plastic usage by focusing on the usage of contact lens plastic blisters.",
-      image: '/images/ProjectVision.gif',
+      image: '/images/PV.png',
       tags: ['Ai', 'Ae', 'Pr'],
     source: 'https://www.youtube.com/watch?v=bWXW0axziPI',
     visit: 'https://www.youtube.com/watch?v=bWXW0axziPI',
