@@ -88,8 +88,8 @@ export const TimeLineData = [
   { year: 2018, text: 'Graduated from Shine-Mongol HighSchool', },
   { year: 2019, text: 'National University of Mongolia: Applied Science and Engineering', },
   { year: 2020, text: 'Tokyo Institute of Technology - TSE Department', },
-  { year: 2022, text: 'Robert Bosch RmbH: 6-month Internship at CGR Department', },
-  { year: 2023, text: 'Robert Bosch RmbH: 6-month Internship at XC-DX Department', },
+  { year: 2022, text: 'Robert Bosch GmbH: 6-month Internship at CGR Department', },
+  { year: 2023, text: 'Robert Bosch GmbH: 6-month Internship at XC-DX Department', },
 ];
 
 export const LanguageData = [
