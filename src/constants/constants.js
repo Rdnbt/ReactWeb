@@ -1,16 +1,43 @@
 import Link from 'next/link';
 
 export const projects = [
+ {
+    title: 'Sign-Language Recognition',
+    description: "This project is part of the collaboration between non-profit organization and Tokyo Institute of Technology. The goal of this project is to create a sign-language recognition model that can be used in real-time. The model is trained using the sign-language dataset provided by the organization.",
+    image: '/images/SignMongol.jpg',
+    tags: ['Python', 'Pytorch', 'Machine Learning', 'Deep Learning', 'Computer Vision', 'NLP'],
+    source: 'https://github.com/Rdnbt/signtensor.git',
+    visit: 'https://github.com/Rdnbt/signtensor.git',
+    id: 0,
+  },
+  {
+    title: 'Low-Resource Image Labeling Model',
+    description: 'This is an ongoing project under Tokyo Institute of Technology. The goal of this research project is to create a low-resource image labeling model that fuses the existing methods and deliver it in a end-to-end manner.',
+    image: '/images/LowResource.png',
+    tags: ['Python', 'Pytorch', 'Machine Learning', 'Deep Learning', 'Computer Vision', 'NLP'],
+    source: 'https://github.com/Rdnbt/Img_Cap_Mon.git',
+    visit: 'https://github.com/Rdnbt/annotationapp.git',
+    id: 0,
+  },
+  {
+    title: 'Computational Design',
+    description: 'As an computational design enthusiast, this Repo and Instagram account is dedicated to share my computational design works. All source codes and results can be viewed from the Github repository.',
+    image: '/images/Harold.gif',
+    tags: ['Processing', 'p5.js', 'After Effects', 'Unity', 'Unreal Engine'],
+    source: 'https://github.com/Rdnbt/CreativeCoding.git',
+    visit: 'https://www.instagram.com/vvvv_gamma/',
+    id: 0, 
+  },
   {
     title: 'Project Vision 2022',
     description: "Project Vision is a collaborative project with Cooper Vision Japan, to tackle the issue of Plastic waste. Nohara Lab members came up with innovative solutions to solve the issue of plastic usage by focusing on the usage of contact lens plastic blisters.",
-      image: '/images/PV.png',
+      image: '/images/ProjectVision.gif',
       tags: ['Ai', 'Ae', 'Pr'],
     source: 'https://www.youtube.com/watch?v=bWXW0axziPI',
     visit: 'https://www.youtube.com/watch?v=bWXW0axziPI',
     id: 0,
   },
-  {
+  /*{
     title: 'PDE - Python Simulation for various Partial Differential Equations',
     description: "Partial Differential Equations are used to model various physical phenomena. This project is a simulation of various PDEs using Python. All source codes and results can be viewed from the Github repository.",
       image: '/images/PDE.png',
@@ -18,7 +45,7 @@ export const projects = [
     source: 'https://github.com/HaroldBudd/PDE.git',
     visit: 'https://github.com/HaroldBudd/PDE.git',
     id: 0,
-  },
+  },*/
   {
     title: 'Volunteer Application',
     description: "Pandamic Has Affected The Lives Of Many People In The World. This Project Creates Opportunities For Students To Volunteer To Help Those In Need.",
