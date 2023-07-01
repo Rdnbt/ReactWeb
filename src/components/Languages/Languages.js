@@ -10,7 +10,7 @@ const Languages = () => (
         <br />
         <SectionTitle>Languages</SectionTitle>
         <SectionText>
-            Here is the list of languages I know. Communication is a vital element in expressing ideas and proposal especially in collaboration. 
+            Here is the list of languages I know.
         </SectionText>
         <List>
             <ListItem> 
@@ -18,7 +18,7 @@ const Languages = () => (
                 <ListContainer>
                     <ListTitle>English</ListTitle>
                     <ListParagraph>
-                        Native Level
+                        Fully Proficient 
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
@@ -36,7 +36,7 @@ const Languages = () => (
                 <ListContainer>
                     <ListTitle>Mongolian</ListTitle>
                     <ListParagraph>
-                        Native Level
+                        Native Language 
                     </ListParagraph>
                 </ListContainer>
             </ListItem>
